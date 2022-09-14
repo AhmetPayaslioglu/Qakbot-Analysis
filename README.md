@@ -57,6 +57,10 @@ joeboxserver.exe
 
 ResourceHacker.exe
 
-x64dbg.exe;Fiddler.exe
+x64dbg.exe
 
-sniff_hit.exe;sysAnalyzer.exe
+Fiddler.exe
+
+sniff_hit.exe
+
+sysAnalyzer.exe

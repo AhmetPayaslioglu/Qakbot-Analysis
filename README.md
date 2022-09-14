@@ -2,6 +2,7 @@
 Qakbot checks these tools to evade analysis:
 
 frida-winjector-helper-32.exe 
+
 frida-winjector-helper-64.exe
 tcpdump.exe 
 windump.exe 
